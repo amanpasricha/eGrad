@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">eGrad</string>
+    <string name="email">Outlook Email ID</string>
+    <string name="email_suffix">"\@muj.manipal.edu</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="student">Student</string>
+    <string name="faculty">Faculty</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_link">Send Password Reset Link</string>
+    <string name="new_batch">Add New Batch</string>
+    <string name="photo">Student Photo</string>
+    <string name="verified">Student Details Verified</string>
+</resources>

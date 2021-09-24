@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "197684948563",
+    "project_id": "e-grad-1",
+    "storage_bucket": "e-grad-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197684948563:android:69bf0e2eaf2da3aad8a0a6",
+        "android_client_info": {
+          "package_name": "com.egrad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197684948563-26g9l5uivm2ulsdsqmtv35o04ltdlin2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egrad",
+            "certificate_hash": "6f8fdf3801b3b4d2466f9801efe77ae67c54ec07"
+          }
+        },
+        {
+          "client_id": "197684948563-d6vhct1q66emtpl2offcnueub1ge4j0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbAxAHzTSsfbCmUb3bFgT82UGRNBua7II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197684948563-d6vhct1q66emtpl2offcnueub1ge4j0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

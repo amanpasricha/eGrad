@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amber">#FFAB5D</color>
+    <color name="teal_30">#E5ECEE</color>
+    <color name="teal_50">#E0F2F1</color>
+    <color name="teal_80">#CBEDEC</color>
+    <color name="teal_100">#B2DFDB</color>
+    <color name="teal">#479993</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="light_green_50">#F1F8E9</color>
+    <color name="amber_50">#FFF8E1</color>
+    <color name="deep_orange_50">#FBE9E7</color>
+    <color name="brown_50">#EFEBE9</color>
+    <color name="blue_grey_50">#ECEFF1</color>
+    <color name="cyan_50">#E0F7FA</color>
+    <color name="grey_100">#F5F5F5</color>
+</resources>
